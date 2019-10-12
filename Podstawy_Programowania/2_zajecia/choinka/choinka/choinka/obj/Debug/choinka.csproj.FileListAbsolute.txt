@@ -1,0 +1,6 @@
+D:\programy MVS\brackets\Podstawy_Programowania\2_zajecia\choinka\choinka\choinka\bin\Debug\choinka.exe.config
+D:\programy MVS\brackets\Podstawy_Programowania\2_zajecia\choinka\choinka\choinka\bin\Debug\choinka.exe
+D:\programy MVS\brackets\Podstawy_Programowania\2_zajecia\choinka\choinka\choinka\bin\Debug\choinka.pdb
+D:\programy MVS\brackets\Podstawy_Programowania\2_zajecia\choinka\choinka\choinka\obj\Debug\choinka.csprojAssemblyReference.cache
+D:\programy MVS\brackets\Podstawy_Programowania\2_zajecia\choinka\choinka\choinka\obj\Debug\choinka.exe
+D:\programy MVS\brackets\Podstawy_Programowania\2_zajecia\choinka\choinka\choinka\obj\Debug\choinka.pdb

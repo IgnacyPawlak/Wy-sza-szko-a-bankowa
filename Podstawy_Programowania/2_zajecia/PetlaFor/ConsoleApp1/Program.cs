@@ -11,9 +11,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("program pokazuje liczby parzyste z przedziału od 20 do 0");
-            int x = 1;
-            for (int i = 20;  i % 2 == 0 ; x++)
-            Console.Write(i + " ");
+            int x = 0;
+            for (int i = 20;  i >=x ;i--)
+            {
+                if (i%2==0)
+                    Console.Write(i + " " );
+            }
+
 
             Console.ReadKey();
         }
