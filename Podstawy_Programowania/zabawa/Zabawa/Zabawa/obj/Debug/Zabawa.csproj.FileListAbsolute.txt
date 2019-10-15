@@ -1,0 +1,6 @@
+D:\programy MVS\brackets\Podstawy_Programowania\zabawa\Zabawa\Zabawa\bin\Debug\Zabawa.exe.config
+D:\programy MVS\brackets\Podstawy_Programowania\zabawa\Zabawa\Zabawa\bin\Debug\Zabawa.exe
+D:\programy MVS\brackets\Podstawy_Programowania\zabawa\Zabawa\Zabawa\bin\Debug\Zabawa.pdb
+D:\programy MVS\brackets\Podstawy_Programowania\zabawa\Zabawa\Zabawa\obj\Debug\Zabawa.csprojAssemblyReference.cache
+D:\programy MVS\brackets\Podstawy_Programowania\zabawa\Zabawa\Zabawa\obj\Debug\Zabawa.exe
+D:\programy MVS\brackets\Podstawy_Programowania\zabawa\Zabawa\Zabawa\obj\Debug\Zabawa.pdb
