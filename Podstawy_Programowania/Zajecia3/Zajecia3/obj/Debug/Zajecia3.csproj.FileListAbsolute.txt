@@ -1,0 +1,12 @@
+C:\Users\Arata\source\repos\Zajecia3\Zajecia3\bin\Debug\Zajecia3.exe.config
+C:\Users\Arata\source\repos\Zajecia3\Zajecia3\bin\Debug\Zajecia3.exe
+C:\Users\Arata\source\repos\Zajecia3\Zajecia3\bin\Debug\Zajecia3.pdb
+C:\Users\Arata\source\repos\Zajecia3\Zajecia3\obj\Debug\Zajecia3.exe
+C:\Users\Arata\source\repos\Zajecia3\Zajecia3\obj\Debug\Zajecia3.pdb
+C:\Users\Arata\source\repos\Zajecia3\Zajecia3\obj\Debug\Zajecia3.csprojAssemblyReference.cache
+D:\programy MVS\brackets\Podstawy_Programowania\Zajecia3\Zajecia3\bin\Debug\Zajecia3.exe.config
+D:\programy MVS\brackets\Podstawy_Programowania\Zajecia3\Zajecia3\bin\Debug\Zajecia3.exe
+D:\programy MVS\brackets\Podstawy_Programowania\Zajecia3\Zajecia3\bin\Debug\Zajecia3.pdb
+D:\programy MVS\brackets\Podstawy_Programowania\Zajecia3\Zajecia3\obj\Debug\Zajecia3.csprojAssemblyReference.cache
+D:\programy MVS\brackets\Podstawy_Programowania\Zajecia3\Zajecia3\obj\Debug\Zajecia3.exe
+D:\programy MVS\brackets\Podstawy_Programowania\Zajecia3\Zajecia3\obj\Debug\Zajecia3.pdb
