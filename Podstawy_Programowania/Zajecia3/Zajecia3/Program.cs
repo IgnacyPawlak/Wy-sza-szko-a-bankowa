@@ -10,6 +10,7 @@ namespace Zajecia3
     {
         static void Main(string[] args)
         {
+            Start:
             Console.WriteLine("Program zawiera ćwiczenia, które robiliśmy na trzecich labolatoriach\nProszę wpisać numer programu, który chcesz uruchomić, a następnie wcisnąć enter\n" +
                 "1 - Program liczący funkcję x = 4y dla zakresu podanego przez użytkownika\n" +
                 "2 - Program liczący sumę elementów z podanego przez użytkownika przedziału\n" +
@@ -17,14 +18,15 @@ namespace Zajecia3
                 "4 - Program, który wyświetla duże litery alfabetu od A do Z i od Z do A\n" +
                 "5 - Zasady działania break\n" +
                 "6 - Zasady działania break\n" +
-                "7 - Program, który umieszcza w tablicy dziesięcio elementowej, jednowymiarowej umieszcza liczby całkowite z przedziału od 1 do 10. Jak budować tablice.");
+                "7 - Program, który umieszcza w tablicy dziesięcio elementowej, jednowymiarowej umieszcza liczby całkowite z przedziału od 1 do 10. Jak budować tablice.\n" +
+                "8 - Program, który w pięcio elementowej tablicy jednowymiarowej o nazwie colors umieszcza nazwy kolorów podane z klawiatury przez użytkownika.");
             string inputChoice = Console.ReadLine();
             double choice;
             double.TryParse(inputChoice, out choice);
             switch (choice)
             {
                 case 1:
-                    Start:
+                    startProgram1:
             Console.WriteLine("Program obliczający fukcję x=4y dla liczb w przedziale podanym przez użytkownika.\nProszę podać dolny zakres przedziału i wcisnąc enter" +
                 "a następnie górny zakres i wcisnąć enter.");
             string inputDolnyZakres = Console.ReadLine();
@@ -36,7 +38,7 @@ namespace Zajecia3
                 {
                     Console.Clear();
                     Console.WriteLine("{0} jest większe niż {1} więc dane są niepoprawne", DolnyZakres, GornyZakres);
-                    goto Start;
+                    goto startProgram1;
                 }
                 else
                 {
@@ -113,7 +115,6 @@ namespace Zajecia3
                             wiersz++;
                         } while (wiersz <= 10);
                         Console.ReadKey();
-
                     }
                     break;
                 case 4:
@@ -147,7 +148,6 @@ namespace Zajecia3
                                 continue;
                             else
                                 Console.WriteLine(i);
-
                         }
                         Console.ReadKey();
                     }
@@ -163,7 +163,6 @@ namespace Zajecia3
                                 break;
                             else
                                 Console.WriteLine(i);
-
                         }
                         Console.ReadKey();
                     }
@@ -171,7 +170,7 @@ namespace Zajecia3
                 case 7:
                     {
                         Console.Clear();
-                        Console.WriteLine("Program, który umieszcza w tablicy dziesięcio elementowej, jednowymiarowej umieszcza liczby całkowite z przedziału od 1 do 10. Jak budować tablice.");
+                        Console.WriteLine("Program, który umieszcza w tablicy dziesięcio elementowej, jednowymiarowej umieszcza liczby całkowite z przedziału od 0 do 9. Jak budować tablice.");
                         int n = 10, i;
                         int[] tablica = new int[n];
                         for (i = 0; i < tablica.Length; i++)
@@ -185,9 +184,26 @@ namespace Zajecia3
                     {
                         Console.Clear();
                         Console.WriteLine("Program, który w pięcio elementowej tablicy jednowymiarowej o nazwie colors umieszcza nazwy kolorów podane z klawiatury przez użytkownika.");
-
+                        int n = 5, i;
+                        string kolor;
+                        string[] colors = new string[n];
+                        for (i = 0; i < colors.Length; i++)
+                        {
+                            Console.WriteLine("Wprowadź kolor:");
+                            kolor = Console.ReadLine();
+                            colors[i] = kolor;
+                        }
+                        for (i = 0; i < colors.Length; i++)
+                        Console.WriteLine(colors[i] + " ");
+                        Console.ReadKey();
                     }
                     break;
+                default:
+                    {
+                        Console.WriteLine("Wpisane znaki nie odpowiadają możliwym wyborom. Po kliknięciu jakiegokolwiek przycisku wrócisz do początku programu.");
+                        Console.ReadKey();
+                        goto Start;
+                    }
             }
         }
     }
