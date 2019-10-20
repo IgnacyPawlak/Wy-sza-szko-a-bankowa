@@ -1,0 +1,6 @@
+D:\programy MVS\brackets\zadania CSLabs\zadanie2\zadanie2\bin\Debug\zadanie2.exe.config
+D:\programy MVS\brackets\zadania CSLabs\zadanie2\zadanie2\bin\Debug\zadanie2.exe
+D:\programy MVS\brackets\zadania CSLabs\zadanie2\zadanie2\bin\Debug\zadanie2.pdb
+D:\programy MVS\brackets\zadania CSLabs\zadanie2\zadanie2\obj\Debug\zadanie2.csprojAssemblyReference.cache
+D:\programy MVS\brackets\zadania CSLabs\zadanie2\zadanie2\obj\Debug\zadanie2.exe
+D:\programy MVS\brackets\zadania CSLabs\zadanie2\zadanie2\obj\Debug\zadanie2.pdb
