@@ -1,0 +1,14 @@
+C:\Users\Laboratoria K26\source\repos\EmployeeDatabaseK25\EmployeeDatabaseK25\bin\Debug\EmployeeDatabaseK25.exe.config
+C:\Users\Laboratoria K26\source\repos\EmployeeDatabaseK25\EmployeeDatabaseK25\bin\Debug\EmployeeDatabaseK25.exe
+C:\Users\Laboratoria K26\source\repos\EmployeeDatabaseK25\EmployeeDatabaseK25\bin\Debug\EmployeeDatabaseK25.pdb
+C:\Users\Laboratoria K26\source\repos\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.csprojAssemblyReference.cache
+C:\Users\Laboratoria K26\source\repos\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.csproj.CoreCompileInputs.cache
+C:\Users\Laboratoria K26\source\repos\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.exe
+C:\Users\Laboratoria K26\source\repos\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.pdb
+C:\studia\programowanie zaawansowane\EmployeeDatabaseK25\EmployeeDatabaseK25\bin\Debug\EmployeeDatabaseK25.exe.config
+C:\studia\programowanie zaawansowane\EmployeeDatabaseK25\EmployeeDatabaseK25\bin\Debug\EmployeeDatabaseK25.exe
+C:\studia\programowanie zaawansowane\EmployeeDatabaseK25\EmployeeDatabaseK25\bin\Debug\EmployeeDatabaseK25.pdb
+C:\studia\programowanie zaawansowane\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.csprojAssemblyReference.cache
+C:\studia\programowanie zaawansowane\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.csproj.CoreCompileInputs.cache
+C:\studia\programowanie zaawansowane\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.exe
+C:\studia\programowanie zaawansowane\EmployeeDatabaseK25\EmployeeDatabaseK25\obj\Debug\EmployeeDatabaseK25.pdb
